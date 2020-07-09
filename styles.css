@@ -1,0 +1,37 @@
+.win
+{
+  font-size: 7rem;
+  font-family: 'Lobster',cursive;
+  color:#4ECCA3;
+}
+.refre
+{
+  text-align: center;
+  color:#4ECCA3;
+  font-family: 'Lobster',cursive;
+  font-size: 3rem;
+}
+body{
+  background-color: #393E46;
+}
+.dice2
+{
+  width:70%;
+}
+.dice3
+{
+  width: 70%;
+}
+.dice{
+  text-align: center;
+  display: inline-block;
+}
+p{
+  color: red;
+}
+.container
+{
+  text-align: center;
+  width: 70%;
+  margin: auto;
+}
